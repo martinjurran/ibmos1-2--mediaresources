@@ -1,6 +1,8 @@
 # ibmos1-2--mediaresources
 This repository holds images and design information(s), such as banners, icons and logos, extracted out of IBM OS 1/2 WARP 4.2 for scientific purposes.
 
+Please feel free to add missing file(s) via pull request.
+
 # Legal
 
 IBM DISCLAIMS ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING
